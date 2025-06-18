@@ -1,2 +1,2 @@
-str = "hello world!"
-print(str)
+my = "hello world!"
+print(my)
